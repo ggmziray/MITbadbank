@@ -1,4 +1,4 @@
-# Bank Bank app for MIT xPro
+# MIT xPro Bad Bank React App
 
 <h3>Architecture</h3>
 <img src="./public/images/mitbba.png">
@@ -8,7 +8,7 @@
 
 ## Description
 
-This app presents a fictional bank without security (hence, Bad Bank).
+Bad Bank is one of the Capstone Projects for MIT - Masters Fullstack Development course with MERN. This app presents a fictional bank without security (hence, Bad Bank) and incorporates concepts such as hooks, context, routing, and form validations.
 
 ## Features
 
