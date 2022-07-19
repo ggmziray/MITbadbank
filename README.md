@@ -1,10 +1,10 @@
 # Bank Bank app for MIT xPro
 
 <h3>Architecture</h3>
-<img src="mitbba.png">
+<img src="./public/images/mitbba.png">
 
 <h3>Routing</h3>
-<img src="mitbbr.png">
+<img src="./public/images/mitbbr.png"> 
 
 ## Description
 
